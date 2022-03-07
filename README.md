@@ -3,6 +3,8 @@ This repository contains multivariate daily data of 800 stocks from the Chinese 
 
 The data of each stock is stored in a separate csv file, named by the code. e.g., 000001.SZ.csv
 
+**All raw data was obtained from [Tushare Pro](https://tushare.pro/).**
+
 > You can find all the data files in the "CSV" folder.
 
 The structure of each csv file is as follows.
